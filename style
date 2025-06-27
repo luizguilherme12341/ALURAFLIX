@@ -1,0 +1,6 @@
+body {
+    background-color:black;
+    color:blue
+    font-family: "trebuchet ms","comic sans ms"
+    margin:0;
+}

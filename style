@@ -7,15 +7,15 @@ body {
 
 header {
     font-sizer: 60px;
-    border-bottom: double 5px blue 
     padding: 6px;
     text-align: center;
 }
 
 h1 {
    font-size: 30px
-}  
-
-p { 
-    font-size: 20px;
+   border-bottom: double 5px blue;
+   text-alingn: center;
 }
+
+p {
+  font-size:
